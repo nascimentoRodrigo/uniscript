@@ -1,0 +1,74 @@
+{
+  "urls": {
+    "tutoria": "https://univirtus.uninter.com/ava/web/#/ava/tutoria",
+    "tutoriaConversa": "https://univirtus.uninter.com/ava/web/#/ava/TutoriaConversa",
+    "trabalho": "https://univirtus.uninter.com/ava/web/#/ava/PacoteCorrecaoEntregaTrabalho",
+    "trabalhoAlt": "https://univirtus.uninter.com/ava/web/?#/ava/PacoteCorrecaoEntregaTrabalho",
+    "solicitacao": "https://univirtus.uninter.com/ava/web/#/ava/solicitacao",
+    "bancoDeQuestoes": "https://univirtus.uninter.com/ava/web/#/ava/questao",
+    "videos": "https://univirtus.uninter.com/ava/web/#/ava/roa/"
+  },
+  "prazo": "20/04/2026",
+  "cursosLpp": [
+    "ENGENHARIA DE SOFTWARE",
+    "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+    "SISTEMAS DE INFORMAÇÃO",
+    "DESENVOLVIMENTO MOBILE",
+    "TECNOLOGIA EM JOGOS DIGITAIS"
+  ],
+  "colors": {
+    "blueDark": "rgb(30, 51, 76)",
+    "blueNeutral": "rgb(37, 61, 89)",
+    "blueLight": "rgb(66, 112, 161)",
+    "gray": "rgb(111, 111, 111)",
+    "cursoEAD": "background-color:rgb(30,40,50)",
+    "cursoLPP": "background-color:rgb(30,50,30)",
+
+    "base": "rgb(200, 200, 200)",
+    "extra01": "rgb(200, 100, 100)",
+    "extra02": "rgb(200, 200, 100)",
+    "trabalho": "rgb(100, 200, 100)",
+    "trabalhoPrazo": "rgb(100, 200, 200)",
+    "trabalhoNota": "rgb(150, 250, 150)",
+    "prova": "rgb(100, 200, 100)"
+  },
+  "button": {
+    "width": "120px",
+    "height": "25px",
+    "heightSmall": "20px"
+  },
+  "texts": {
+    "comentarioTutoriaRS": "Olá, xxxAlunoNomexxx!<br>Espero que esteja tudo bem com você.<br><br>Lamento muito pelos seus familiares e lhe desejo força para enfrentar esse momento difícil.<br><br>Sua data já foi colocada automaticamente pelo sistema para 17/07/2024, devido seu endereço cadastrado.<br><br>No que mais precisar, conte comigo.<br><br>Abraço!<br><br>Atenciosamente,<br>Prof. Me. Jadson Almeida.<br>Venha conhecer nossas redes sociais e cursos de extensão: https://lnk.bio/n-cpu",
+
+    "comecoComentarioTutoria": "Olá, xxxAlunoNomexxx!<br>Espero que esteja tudo bem com você.",
+    "meioComentarioTutoria": "<br><br>Disponha.<br><br>",
+    "fimComentarioTutoria": "Bons estudos!<br>Atenciosamente,<br>Prof. Me. Jadson Almeida.<br>Venha conhecer nossas redes sociais e cursos de extensão: https://lnk.bio/n-cpu",
+
+    "comecoComentarioTrabalho": "Olá, xxxAlunoNomexxx!<br>Espero que esteja tudo bem com você.<br><br>Parabéns pela entrega do trabalho!",
+    "meioComentarioTrabalho": "<br><br>",
+    "fimComentarioTrabalho": "Bons estudos!<br>Atenciosamente,<br>Prof. Me. Jadson Almeida.",
+    "comentarioTrabalhoProjetoJogosFinal": "<br><br>Vamos à avaliação:<br><br>1) O vídeo ficou bom, demonstra bem o game.<br><br>2) A programação ficou ótima também. Dado o que foi ensinado nas disciplinas, está excelente.<br><br>3) O GDD também está legal.<br><br>Com um pouco polimento vai ficar legal para portfolio!<br><br>",
+    "comentarioTrabalhoProjetoJogosParcial": "<br><br>Siga em frente com sua proposta.<br><br>",
+
+    "comecoComentarioSolicitacoes": "Olá, xxxRequerentexxx!<br>Espero que esteja tudo bem com você.",
+    "meioComentarioSolicitacoes": "<br><br>aaaaaaaaaaaaaa<br><br>",
+    "fimComentarioSolicitacoes": "<br>Atenciosamente,<br>Me. Jadson Almeida.<br>Professor, tutor e coordenador do programa de monitorias dos cursos de TI da Escola Politécnica.",
+
+    "meioComentarioPendencia": "<br><br>Não se preocupe, pode ignorar. Ela só vai fechar quando todos os alunos da turma finalizarem as pendências (segunda chamada ou recuperação), o que deve demorar. Você não está devendo nada.<br><br>",
+    "meioComentarioBomTrabalho": "<br><br>Não posso precisar a nota, porque isso só é feito pelo tutor corretor. Mas me parece muito bom. :)<br><br>",
+    "meioComentarioResumiuBem": "<br><br>Está ótimo. Você pode (e deve) sim deixar de forma resumida, desde que seja compreensível a proposta.\nLembrando sempre que você deve presumir que o leitor do diagrama leu primeiro os requisitos em texto.<br><br>",
+
+    "meioComentarioEstendido": "<br><br>O prazo do seu trabalho foi estendido para xxxPrazoxxx.<br>Todavia, esse não é o procedimento padrão e provavelmente não será adotado por outros tutores em outras disciplinas.<br><br>",
+    "meioComentarioNovaTentativa": "<br><br>O prazo do seu trabalho foi estendido para xxxPrazoxxx com nova possibilidade de envio.<br>Todavia, esse não é o procedimento padrão e provavelmente não será adotado por outros tutores em outras disciplinas.<br><br>",
+    "meioComentarioDeletado": "<br><br>Seu envio foi <b>deletado</b> e você pode reenviar até xxxPrazoxxx. Se o arquivo for grande você pode hospedar ele em algum drive (onedrive, googledrive etc.) e deixar público o link para download (teste em uma aba anônima do seu navegador) e anexar na entrega esse link (pode ser um arquivo txt).<br><br>Peço que tenha atenção nos próximos envios, pois essa segunda tentativa não é o procedimento padrão e provavelmente não será aceito em outras disciplinas.<br><br>",
+
+    "meioComentarioVaiCorrigir": "<br><br>O trabalho está com o tutor corretor. A quantidade esse ciclo acabou ficando em demasia porque temos muitos alunos nessa disciplina (juntando as diferentes turmas dessa mesma disciplina).<br>Mas se houver necessidade de nota e que não houve tempo hábil para realizar a prova exame, me consulte aqui na tutoria para estendermos o prazo de qualquer prova de exame ou recuperação. <br>Confirmo que recebemos seu trabalho e não haverá prejuízo quanto às datas.<br><br>",
+    "meioComentarioAbaTrabalho": "<br><br>Por gentileza enviar na aba de trabalhos, pois fora dali o sistema não permite lançamento de nota.<br><br>",
+    "meioComentarioAjusteNota": "<br><br>Acredito que o tutor corretor não conseguiu encontrar os comandos do jogo. Reavaliei seu trabalho e solicitei o ajuste da sua nota para nota 100.<br>Deve ocorrer o ajuste nos próximos dias.<br>Obrigado pela paciência.<br><br>",
+    "meioComentarioEstender": "<br><br>Você pode tentar estender o prazo através do \"Atendimento Online\" no menu do AVA.<br><br>",
+    "meioComentarioNaoCabe": "<br><br>Apenas tente manter a resposta dentro do espaço que já está reservado no caderno.<br>Se for inevitável que algum diagrama ocupe maior espaço, você escreve no espaço \"diagrama no fim do arquivo\" e cole o diagrama no fim do arquivo.<br><br>",
+    "meioComentarioErroApol": "<br><br>Você deve efetuar a entrega da avaliação clicando no botão, então vai liberar as próximas tentativas.<br>Adicionei +1 tentativa para você.<br><br>",
+    "meioComentarioPqDaNota": "<br><br>Como toda avaliação, há critérios objetivos e subjetivos.<br>A nota 70 é a nota básica do requisitos atingidos (critério objetivo), acima de 70 são pelo polimento do projeto, que consideram atributos qualitativos (subjetivos).<br><br>",
+    "meioComentarioAtendimento": "<br><br>Por gentileza, entre em contato com o \"Atendimento Online\" aqui no AVA para verificar seu caso.<br><br>"
+  }
+}
